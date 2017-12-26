@@ -1,34 +1,36 @@
-{
-"nomeImpianto":"MFL1",
-"descrImpianto":"Multifilo 2",
-"posizione":"Eltech1",
-"dati_status": true,
-"unita_misura": "m/s"
-},
-{
-"nomeImpianto":"MFL2",
-"descrImpianto":"Multifilo 2",
-"posizione":"Eltech2",
-"dati_status": true,
-"unita_misura": "m/s"
-},
-{
-"nomeImpianto":"MFL3",
-"descrImpianto":"Multifilo 3",
-"posizione":"Eltech1",
-"dati_status": true,
-"unita_misura": "m/s"
-},
-{
-"nomeImpianto":"MFL4",
-"descrImpianto":"Multifilo 4",
-"posizione":"Eltech4",
-"dati_status": true,
-"unita_misura": "m/s"
-},
-"nomeImpianto":"MFL5",
-"descrImpianto":"Multifilo 5",
-"posizione":"Eltech5",
-"dati_status": true,
-"unita_misura": "m/s"
-}
+[
+	{
+	"nomeImpianto":"MFL1",
+	"descrImpianto":"Multifilo 2",
+	"posizione":"Eltech1",
+	"dati_status": true,
+	"unita_misura": "m/s"
+	},
+	{
+	"nomeImpianto":"MFL2",
+	"descrImpianto":"Multifilo 2",
+	"posizione":"Eltech2",
+	"dati_status": true,
+	"unita_misura": "m/s"
+	},
+	{
+	"nomeImpianto":"MFL3",
+	"descrImpianto":"Multifilo 3",
+	"posizione":"Eltech1",
+	"dati_status": true,
+	"unita_misura": "m/s"
+	},
+	{
+	"nomeImpianto":"MFL4",
+	"descrImpianto":"Multifilo 4",
+	"posizione":"Eltech4",
+	"dati_status": true,
+	"unita_misura": "m/s"
+	},
+	"nomeImpianto":"MFL5",
+	"descrImpianto":"Multifilo 5",
+	"posizione":"Eltech5",
+	"dati_status": true,
+	"unita_misura": "m/s"
+	}
+]
