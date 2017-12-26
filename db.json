@@ -27,6 +27,7 @@
 	"dati_status": true,
 	"unita_misura": "m/s"
 	},
+	{
 	"nomeImpianto":"MFL5",
 	"descrImpianto":"Multifilo 5",
 	"posizione":"Eltech5",
