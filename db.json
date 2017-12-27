@@ -1,5 +1,5 @@
 { "ImpiantiEltech":
-	
+	[
 		{
 		"nomeImpianto":"MFL1",
 		"descrImpianto":"Multifilo 1",
@@ -35,5 +35,5 @@
 		"dati_status": true,
 		"unita_misura": "m/s"
 		}
-	
+	]
 }
