@@ -1,8 +1,5 @@
 { "ImpiantiProva": [
-	{
-	  "nomeAzienda": "Azienda1",
-	  "active": true,
-	  "Impianti": [
+
 		{
 		  "nomeImpianto": "MFL1",
 		  "descrImpianto": "Multifilo 1",
@@ -54,7 +51,7 @@
 			"17.32"
 		  ]
 		}
-	  ]
-	}
+	  
+	
 ]
 }
