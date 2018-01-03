@@ -1,0 +1,57 @@
+{ "ImpiantiProva": [
+
+		{
+		  "nomeImpianto": "MFL1",
+		  "descrImpianto": "Multifilo 1",
+		  "posizione":"Place1",
+		  "dati_status": "true",
+		  "unita_misura": "m/s",
+		  "velocita": [
+			18,
+			19,
+			20
+		  ],
+		  "orario": [
+			"17.30",
+			"17:31",
+			"17.32"
+		  ]
+		},
+		{
+		  "nomeImpianto":"MFL2",
+			"descrImpianto":"Multifilo 2",
+			"posizione":"Place2",
+			"dati_status": "true",
+			"unita_misura": "m/s",
+			"velocita": [
+				18,
+				19,
+				20
+		  ],
+		  "orario": [
+			"17.30",
+			"17:31",
+			"17.32"
+		  ]
+			},
+		{
+		  "nomeImpianto":"MFL3",
+			"descrImpianto":"Multifilo 3",
+			"posizione":"Place3",
+			"dati_status": "true",
+			"unita_misura": "m/s",
+			"velocita": [
+				18,
+				19,
+				20
+		  ],
+		  "orario": [
+			"17.30",
+			"17:31",
+			"17.32"
+		  ]
+		}
+	  
+	
+]
+}
