@@ -5,9 +5,9 @@
 		"posizione":"Place1",
 		"dati_status": "true",
 		"unita_misura": "m/s",
-		"velocita/oraria": {
+		"velocita": {
 			"vel": [24,13,34,12],
-			"date": ["17.05","17.06","17.07","17.08"]
+			"orario": ["17.05","17.06","17.07","17.08"]
 			}
 		},
 		{
