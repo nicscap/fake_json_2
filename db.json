@@ -9,54 +9,7 @@
 		
 		"vel": [24.5,13.6,34.6,12.1],
 		"orario": ["17.05","17.06","17.07","17.08"]
-		},	
+		}	
 		
-		{
-		"nomeImpianto":"MFL2",
-		"descrImpianto":"Multifilo 2",
-		"posizione":"Place2",
-		"dati_status": "true",
-		"unita_misura": "m/s",
-		"vel_attuale": 12.5,
-		
-		"vel": [24.5,13.6,34.6,12.1],
-		"orario": ["17.05","17.06","17.07","17.08"]
-		},
-	
-		{
-		"nomeImpianto":"MFL3",
-		"descrImpianto":"Multifilo 3",
-		"posizione":"Place3",
-		"dati_status": "true",
-		"unita_misura": "m/s",
-		"vel_attuale": 13.5,
-		
-		"vel": [24.5,13.6,34.6,12.1],
-		"orario": ["17.05","17.06","17.07","17.08"]
-		},
-	
-		{
-		"nomeImpianto":"MFL4",
-		"descrImpianto":"Multifilo 4",
-		"posizione":"Place4",
-		"dati_status": "true",
-		"unita_misura": "m/s",
-		"vel_attuale": 14.5,
-		
-		"vel": [24.5,13.6,34.6,12.1],
-		"orario": ["17.05","17.06","17.07","17.08"]
-		},
-	
-		{
-		"nomeImpianto":"MFL5",
-		"descrImpianto":"Multifilo 5",
-		"posizione":"Place5",
-		"dati_status": "true",
-		"unita_misura": "m/s",
-		"vel_attuale": 15.5,
-		
-		"vel": [24.5,13.6,34.6,12.1],
-		"orario": ["17.05","17.06","17.07","17.08"]
-		}
 	]
 }
